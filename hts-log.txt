@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Thu, 14 May 2020 23:15:43 at http://debnagarmdhs.in/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O /storage/emulated/0/HTTrack/Websites/debnagar -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 http://debnagarmdhs.in/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:16:48	Error: 	"Not Found" (404) at link debnagarmdhs.in/Holiday/Holiday (from debnagarmdhs.in/)
+23:23:45	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js (from debnagarmdhs.in/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 37 seconds : 208 links scanned, 205 files written (8705594 bytes overall) [8298139 bytes received at 16050 bytes/sec], 705481 bytes transferred using HTTP compression in 44 files, ratio 30%
+(1 errors, 1 warnings, 0 messages)
